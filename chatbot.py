@@ -13,10 +13,6 @@ try:
         faq_responses = json.load(f)
 except FileNotFoundError:
     st.error("❌ FAQ database JSON file not found.")
-    faq_responses = {
-        "where is the library": "📚 The UTAR Kampar library is located at Block G, near the administration office.",
-        "how to contact student affairs": "You can email saok@utar.edu.my or call 05-6181333."
-    }
 
 # --- Small talk responses ---
 small_talk = {
