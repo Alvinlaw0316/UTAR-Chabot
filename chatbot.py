@@ -43,9 +43,10 @@ def get_response(user_input):
 
     # Then check FAQ
     faq_keys_norm = [normalize(k) for k in faq_responses.keys()]
-    best_match, score, index = process.extractOne(user_norm, faq_keys_norm)
+    best_match, score, _ = process.extractOne(user_norm, faq_keys_norm)
     if score > 70:
-        original_key = list(faq_responses.keys())[index]
+        # Find original key
+        original_key = list(faq_responses.keys())[faq_keys_norm.index(best_match)]
         return faq_responses[original_key]
 
     # Fallback
