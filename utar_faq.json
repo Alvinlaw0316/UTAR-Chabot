@@ -1,7 +1,7 @@
 {
-    "where is the library": "📚 The UTAR Kampar library is located at Block G, near the administration office. It has study rooms, computer labs, and thousands of books/journals.",
+    "library": "📚 The UTAR Kampar library is located at Block G, near the administration office. It has study rooms, computer labs, and thousands of books/journals.",
     "library hours": "⏰ Library hours: Mon–Fri 8:30 AM – 9:00 PM, Sat-Sun 9:00 AM – 5:00 PM, closed on public holidays.",
-    "how to register for exams": "📝 Exam registration is done via the UTAR Student Portal before the deadline. Check with your faculty for exact dates.",
+    "register exams": "📝 Exam registration is done via the UTAR Student Portal before the deadline. Check with your faculty for exact dates.",
     "tuition fees": "💰 Tuition fees depend on your programme. Please check the https://study.utar.edu.my/documents/International_UG_Fee.pdf.",
     "clubs and societies": "🎉 UTAR Kampar has over 70 clubs and societies! You can join cultural, sports, academic, and special interest clubs via the Student Affairs Office (SAO).",
     "sports facilities": "🏸 The campus has a sports complex with basketball courts, badminton halls, a football field, gym, and jogging tracks around the lake.",
@@ -12,7 +12,7 @@
     "food options": "🍜 There are canteens in most blocks, plus cafes and mamak stalls near campus. Popular spots include McD, KFC, and Kampar food courts.",
     "transportation": "🚗 Students usually travel by bicycle, e-bike, motorbike, or GrabCar. Kampar KTM station connects to Ipoh and KL by train.",
     "nearby attractions": "🏞️ Kampar has scenic lakes and limestone hills for jogging or hiking. Students often hang out at Tesco, AEON, or cafes around town.",
-    "how to apply for scholarship": "🎓 Scholarship applications are available on the UTAR Student Portal. Deadlines vary by programme.",
+    "apply scholarship": "🎓 Scholarship applications are available on the UTAR Student Portal. Deadlines vary by programme.",
     "wifi access": "📶 UTAR provides Eduroam Wi-Fi across campus. Login with your student ID and password.",
     "canteen menu": "🍽️ The canteens offer local and international dishes. Check campus notice boards for weekly menus.",
     "exam timetable": "🗓️ Exam timetables are posted on the Student Portal. Make sure to check your programme's schedule.",
@@ -34,7 +34,7 @@
     "laundry services": "🧺 Many hostels near Westlake and Sentral have coin-operated laundry machines or nearby laundry shops.",
     "food delivery": "📱 Foodpanda and GrabFood deliver to Kampar. Most hostels allow delivery riders to drop off at the lobby.",
     "study rooms": "📖 Study rooms are available in the library and some hostels. Book early during exam season.",
-    "how to reset student portal password": "🔑 Reset your password by clicking 'Forgot Password' on the Student Portal login page or contact ICT Helpdesk.",
+    "reset student portal password": "🔑 Reset your password by clicking 'Forgot Password' on the Student Portal login page or contact ICT Helpdesk.",
     "graduation requirements": "🎓 Graduation requires passing all courses, completing credit hours, CGPA ≥ 2.0, and fulfilling MPU requirements.",
     "internship process": "💼 Internship applications are handled by your faculty. Check the internship portal and meet your academic advisor for approval.",
     "lecturer consultation hours": "👩‍🏫 Lecturer consultation hours are posted on the Student Portal or faculty notice boards.",
@@ -49,5 +49,6 @@
     "motivate me": "💪 Don’t give up! Every expert was once a beginner. Keep going, you got this!",
     "dorm": "🏠 'Dorm' is the same as 'hostel'. Many students stay near Westlake, Kampar Sentral, or nearby housing. Prices range RM200–RM400/month.",
     "father": "My father is Alvinlaw!",
-    "bot": "🤖 Yes, I’m a chatbot designed to help you with UTAR Kampar info!"
+    "bot": "🤖 Yes, I’m a chatbot designed to help you with UTAR Kampar info!",
+    "stress": "💆‍♂️ Feeling stressed? UTAR Kampar offers counseling services at the Student Affairs Office. You can also try: taking short breaks, exercising, listening to music, meditating, or talking to friends. Remember, it’s okay to ask for help!"
 }
