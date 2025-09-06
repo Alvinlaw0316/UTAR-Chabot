@@ -18,7 +18,7 @@ except FileNotFoundError:
 small_talk = {
     "hi": "👋 Hello! How can I help you today?",
     "hello": "👋 Hi there! Do you have any questions about UTAR Kampar?",
-    "how are you": "😊 I'm just a chatbot, but I'm ready to help you with any UTAR questions!",
+    "how are you": "😊 I'm good! How can I assist you with UTAR today?",
     "good morning": "🌞 Good morning! What UTAR info can I help you with today?",
     "good afternoon": "☀️ Good afternoon! Need any info about UTAR Kampar?",
     "good evening": "🌙 Good evening! How can I assist you today?",
