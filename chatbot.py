@@ -66,7 +66,7 @@ with st.form(key="chat_form", clear_on_submit=True):
     user_input = st.text_input("💬 Type your question here:")
     submit_button = st.form_submit_button("🚀 Ask")
     
-    if submit_button and user_input.strip():
+    if submit_button:
         response = get_response(user_input)
         st.session_state.history.append(("You", user_input))
         st.session_state.history.append(("Chatbot", response))
